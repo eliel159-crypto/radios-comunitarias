@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "actualizado": "2026-09-02",
+  "radios": [
+    {
+      "id": "radio-planton",
+      "nombre": "Radio Plantón",
+      "frecuencia": "92.3 FM",
+      "descripcion": "Radio Plantón 92.3 FM",
+      "stream": "https://a.stream.mayfirst.org/rpprueba.mp3",
+      "logo": "logos/radioplanton.png",
+      "principal": true,
+      "activa": true
+    }
+  ]
+}
